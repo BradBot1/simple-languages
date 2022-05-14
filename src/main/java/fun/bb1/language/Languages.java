@@ -1,4 +1,4 @@
-package com.bb1.language;
+package fun.bb1.language;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
@@ -7,8 +7,8 @@ import java.util.function.Function;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
-import com.bb1.registry.IRegistry;
-import com.bb1.registry.SimpleRegistry;
+import fun.bb1.registry.IRegistry;
+import fun.bb1.registry.SimpleRegistry;
 
 /**
  * 
